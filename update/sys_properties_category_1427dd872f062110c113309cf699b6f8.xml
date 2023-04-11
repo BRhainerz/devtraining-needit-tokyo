@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Needit Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-11 12:15:16</sys_created_on>
+        <sys_id>1427dd872f062110c113309cf699b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_1427dd872f062110c113309cf699b6f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-11 12:15:16</sys_updated_on>
+        <title><![CDATA[<p><img title="HueProfile.gif" src="/sys_attachment.do?sys_id&#61;8a67d1c72f062110c113309cf699b6f9" alt="" width="500" height="350" /> Proprietà <strong>NeedIt</strong></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=1427dd872f062110c113309cf699b6f8"/>
+</record_update>
